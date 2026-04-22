@@ -1,0 +1,13 @@
+body {
+  background-color: #121212;
+  color: white;
+  font-family: Arial;
+}
+
+h1 {
+  color: #00ffcc;
+}
+
+a {
+  color: #66ccff;
+}

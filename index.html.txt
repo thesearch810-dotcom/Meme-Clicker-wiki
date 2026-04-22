@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <title>Wiki do Meu Jogo</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <h1>Wiki do Meu Jogo</h1>
+
+  <p>Bem-vindo à wiki!</p>
+
+  <h2>Páginas</h2>
+  <ul>
+    <li><a href="personagens.html">Personagens</a></li>
+    <li><a href="mapas.html">Mapas</a></li>
+  </ul>
+
+</body>
+</html>
